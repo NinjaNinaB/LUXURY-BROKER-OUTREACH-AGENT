@@ -1,0 +1,6 @@
+lead_id,name,org,type,platform,url,score,evidence,status
+L001,Celeste Moreau,Maison Celeste,Boutique Buyer,Email,maisonceleste.example,9,"Curates living materials alongside wearable art; SoHo floor carries botanical home objects",drafted
+L002,Solène Beaumont,Beaumont Creative House,Celebrity Stylist,Instagram DM,@beaumontcreative,8,"Styles botanical editorial moments on set; aesthetic overlaps with living wearables",drafted
+L003,Priya Raman,Verdant Gift Co.,Gift Broker,Email,verdantgift.example,7,"Curates sustainable-luxury corporate gifting roster; hotel amenity programs",queued
+L004,Dana Okafor,Thorne & Fern,Boutique Buyer,Email,thorneandfern.example,8,"Concept store mixing wearable art and living plants; values slow-made goods",queued
+L005,Mika Tanaka,Atelier Mori,Boutique Buyer,Email,ateliermori.example,6,"Minimalist botanical boutique; smaller footprint, unverified buyer email",queued
