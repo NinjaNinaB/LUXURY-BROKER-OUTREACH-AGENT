@@ -1,0 +1,5 @@
+# secrets / local
+.env
+*.key
+# local agent scratch
+data/outreach_drafts/*_SENT.md
